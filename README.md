@@ -14,6 +14,6 @@ python manage.py runserver
 ```
 
 ## 关于我
-[bujing](http://huruixiang.cn/)
+[bujing](http://www.huruixiang.cn/)
 
 
